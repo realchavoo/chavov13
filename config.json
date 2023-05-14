@@ -1,0 +1,46 @@
+{
+    "bot": {
+        "token": "",
+        "owners": [""],
+        "prefix": ["."],
+        "mongoURL": ""
+    },
+    "coin": {
+        "stafs": ["1089517251218112552"],
+        "messageCoin": 1,
+        "voiceCoin": 2,
+        "taggesCoin": 5,
+        "publicCoin": 3,
+        "voiceCount": 1,
+        "messageCount": 5,
+        "Tag": "`"
+    },
+    "parents": {
+        "publicParents": ["PUBLİC"],
+        "registerParents": ["REGİSTER"],
+        "solvingParents": ["SORUN_COZME"],
+        "gameParents": ["OYUN"],
+        "privateParents": ["PRİVATE"],
+        "aloneParents": ["TEKLİ"],
+        "funParents": ["EGLENCE"]
+    },
+    "emojis": {
+        "fill": "",
+        "empty": "",
+        "fillStart": "",
+        "emptyEnd": "",
+        "fillEnd": "<a:1089520207514587257:1089520207514587257>"
+    },
+    "channels": {
+        "ranklog": "1089592692515815475",
+        "leaderboard": "1089592720969961492"
+    },
+    "Message": {
+        "ChatleaderBoardMessages": "1089664151380570332",
+        "VoiceleaderBoardMessages": "1089664151380570332"
+    },
+    "Guild": {
+        "GuildID": "1089517251067117628",
+        "GuildOwnerRole": ["OWNER_ROL", "OWNER_ROL"]
+    }
+}
